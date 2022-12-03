@@ -22,7 +22,4 @@ public class Member {
     public void setName(String name) {
         this.name = name;
     }
-    public void setNick(String name) {
-        this.name = name;
-    }
 }
